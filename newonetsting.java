@@ -6,6 +6,8 @@ public class newonetsting
 	{
 
     System.out.println("output:Katha");
+    System.out.println("output:ttt");
+
 
 }
 }
